@@ -3,3 +3,6 @@ ayo bisa rian bisaaaa
 
 penambahan baris pada commit
 ini baris kedua
+
+
+ini baru lagi penambahan
